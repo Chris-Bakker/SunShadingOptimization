@@ -1,5 +1,5 @@
 # Parametric Shading Optimization
-
+![](sunShading.png)
 This project showcases the use of **Grasshopper** for optimizing sunshading elements in a multi-storey mixed-use building. The aim was to enhance the building's energy efficiency and occupant comfort by minimizing solar gain during summer while allowing enough sunlight in winter.
 
 ## Project Overview
