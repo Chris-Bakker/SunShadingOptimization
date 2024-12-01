@@ -18,7 +18,7 @@ This project showcases the use of **Grasshopper** for optimizing sunshading elem
 2. **Shading Parameters**:
    - Depth: Adjustable from 0 to 0.5 m.
    - Angle: Ranged from -50° to 50°.
-   - Orientation: Horizontal or vertical, with positions such as top, bottom, left, or right.
+   - Orientation: Horizontal or vertical, with positions such as top, bottom, left or right.
 3. **Optimization**:
    - Calculated incident solar energy for each window and room orientation.
    - Minimized the difference between summer and winter solar exposure using Grasshopper's **Evolutionary Solver**.
